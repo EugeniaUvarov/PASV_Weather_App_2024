@@ -19,3 +19,4 @@ struct SearchModel {
 }
 
 let infoData = ["New York", "Toronto", "London", "Singapore", "Paris", "Tokyo", "Sydney"]
+//changes test
